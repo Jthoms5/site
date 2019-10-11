@@ -5,3 +5,6 @@ Gemfile.lock
 _site
 vendor
 vendor/bundle
+Gemfile
+README.md
+LICENSE.md
