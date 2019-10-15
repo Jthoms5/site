@@ -266,7 +266,7 @@ font header .navbar-default .navbar-nav li a:hover {
   color: #8d8f92;
   margin-bottom: 20px;
 }
-#feature .btn-view-works {
+.btn-view-more {
   background: #655E7A;
   color: #fff;
   padding: 10px 20px;
@@ -796,7 +796,7 @@ footer {
   background: #F5F5F5;
   text-align: center;
   padding-top: 20px;
-  /* position: fixed; */
+  position: fixed;
   bottom: 0;
   width: 100%;
 }
@@ -849,4 +849,14 @@ ul li{
 .sub-text {
   font-style: italic;
   font-size: 15px;
+}
+
+.office {
+  height: 300px;
+}
+
+.therapy-icons{
+  max-width: 200px;
+  display: inline-block;
+  margin: 0 auto;
 }
