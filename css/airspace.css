@@ -38,8 +38,6 @@ p {
   line-height: 28px;
 }
 ul {
-  padding: 0;
-  margin: 0;
   list-style: none;
 }
 a,
@@ -718,6 +716,20 @@ font header .navbar-default .navbar-nav li a:hover {
   height: 300px;
   background-color: #ff432e;
 }
+.map-responsive{
+    overflow:hidden;
+    padding-bottom:56.25%;
+    position:relative;
+    height:0;
+}
+.map-responsive iframe{
+    left:0;
+    top:0;
+    height:100%;
+    width:100%;
+    position:absolute;
+}
+
 #contact-box {
   padding-top: 35px;
   padding-bottom: 58px;
@@ -776,8 +788,10 @@ font header .navbar-default .navbar-nav li a:hover {
 footer {
   background: #F5F5F5;
   text-align: center;
-  padding-top: 48px;
-  padding-bottom: 55px;
+  padding-top: 20px;
+  position: fixed;
+  bottom: 0;
+  width: 100%;
 }
 footer p {
   font-size: 13px;
@@ -804,4 +818,19 @@ footer .footer-manu ul li a {
 }
 footer .footer-manu ul li a:hover {
   color: #000;
+}
+
+.page{
+  width: 65%;
+  margin: 3rem auto;
+  display: block;
+}
+
+.indent{
+  margin-left: 3rem;
+}
+
+ul li{
+  margin-top: 1rem;
+  font-size: 20px;
 }
