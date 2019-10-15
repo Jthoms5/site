@@ -45,7 +45,7 @@ p {
   line-height: 28px;
 }
 ul {
-  list-style: none;
+  list-style: disc;
 }
 a,
 a:active,

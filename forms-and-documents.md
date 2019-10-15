@@ -15,7 +15,7 @@ permalink: /forms-and-documents/
 
     <ul class="indent">
 
-    <li><a href="/forms/informed_consent.pdf" target="_blank">Informed consent</a></li>
+    <li><a href="/forms/informed_consent.pdf" target="_blank">Informed Consent</a></li>
 
     <li><a href="/forms/adult_intake.pdf" target="_blank">Adult Intake Questionnaire Form</a></li>
 
