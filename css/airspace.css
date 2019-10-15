@@ -84,8 +84,8 @@ header .navbar-default {
   background: none;
   border: 0px;
 }
-header .navbar-default .navbar-nav {
-  padding-top: 10px;
+header .navbar-default .navbar-nav ul li{
+  margin-top: 0;
 }
 header .navbar-default .navbar-nav li a {
   color: #333333;
