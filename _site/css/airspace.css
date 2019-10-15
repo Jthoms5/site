@@ -860,3 +860,7 @@ ul li{
   display: inline-block;
   margin: 0 auto;
 }
+
+.whitespace{
+  margin-top: 5rem;
+}
