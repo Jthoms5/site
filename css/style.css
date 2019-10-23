@@ -37,3 +37,17 @@
   max-width: 300px;
   margin-top: -1rem;
 }
+
+.home-headshot {
+  border-radius: 50%;
+}
+
+.headshot {
+  border-radius: 50%;
+  padding: 3rem;
+  width: 100%;
+}
+
+.row {
+  margin: 0;
+}
