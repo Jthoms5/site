@@ -16,11 +16,15 @@ keep_files:
 # Site settings
 title: JR Counseling, LLC
 subtitle: "Omaha Nebraska Counseling"
-url: "localhost:4000" # the base hostname & protocol for your site
+url: "https://jennirennecounseling.com" # the base hostname & protocol for your site
 # baseurl: "/the/subpath/of/your/site" # Set this value to "" if you want your site to be root
 baseurl: ""
 cover: "/assets/cover.png"
-logo: "/assets/logo.png"
+logo: "/img/logo.png"
+
+description: Jenni Thomsen is a mental health clinician in the Omaha Area.
+social:
+  name: Jenni Thomsen
 
 # Build settings
 markdown: kramdown
@@ -35,3 +39,6 @@ descriptions:
 
   - cat: dummy
     desc: "Just some placeholder posts, lorem ipsum and the rest."
+
+plugins:
+  - jekyll-seo-tag

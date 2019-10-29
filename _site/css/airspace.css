@@ -155,7 +155,7 @@ font header .navbar-default .navbar-nav li a:hover {
   padding-top: 20px;
 }
 #intro .block img {
-  padding-left: 40px;
+  margin-left: 40px;
   width: 100%;
 }
 #intro .section-title {
@@ -268,9 +268,29 @@ font header .navbar-default .navbar-nav li a:hover {
 }
 .btn-view-more {
   background: #655E7A;
+  border: 1px solid #655e7a;
   color: #fff;
   padding: 10px 20px;
 }
+.btn-view-more:hover {
+  background: #ffffff;
+  border: 1px solid #655e7a;
+  color: #655E7A;
+}
+
+.btn-view-map {
+  background: #ffffff;
+  border: 1px solid #ffffff;
+  color: #655e7a;
+  padding: 10px 20px;
+  margin-top: 10rem;
+}
+.btn-view-map:hover {
+  background: #655e7a;
+  border: 1px solid #655e7a;
+  color: #ffffff;
+}
+
 /*--
 	content Start
 --*/
@@ -853,6 +873,7 @@ ul li{
 
 .office {
   height: 300px;
+  text-align: center;
 }
 
 .therapy-icons{
