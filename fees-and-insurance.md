@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Fees and Insurance
+title: Fees and Insurance | Jenni Thomsen
 permalink: /fees-and-insurance/
 ---
 <div class="row">
