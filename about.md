@@ -1,6 +1,6 @@
 ---
 layout: page
-title: About
+title: About Jenni Thomsen
 permalink: /about/
 ---
 <div class="row">
