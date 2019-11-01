@@ -833,6 +833,10 @@ footer p {
 footer a {
   color: #f5f5f5;
 }
+footer a:hover {
+  color: #cccccc;
+}
+
 footer .footer-manu {
   padding-bottom: 25px;
 }

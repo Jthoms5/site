@@ -15,14 +15,14 @@ keep_files:
 
 # Site settings
 title: Jenni Thomsen | JR Counseling
-subtitle: "My goal as a therapist is to provide a safe and compassionate place where counseling clients from all over Omaha can get encouragement and support as they navigate through the challenges of life."
+subtitle: "Get the Mental Health Counseling You Need from a Dedicated Therapist."
 url: "https://jennirennecounseling.com" # the base hostname & protocol for your site
 # baseurl: "/the/subpath/of/your/site" # Set this value to "" if you want your site to be root
 baseurl: ""
 cover: "/assets/cover.png"
 logo: "/img/logo.png"
 
-description: My goal as a therapist is to provide a safe and compassionate place where counseling clients from all over Omaha can get encouragement and support as they navigate through the challenges of life.
+description: Push Away Any Stigma and Open up to the Benefits of child therapy. Book an Appointment.
 social:
   name: Jenni Thomsen
 
