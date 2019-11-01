@@ -873,9 +873,10 @@ footer .footer-manu ul li a:hover {
 }
 
 .page{
-  width: 65%;
+  width: 75%;
   margin: 3rem auto;
   display: block;
+  padding-top: 90px
 }
 
 .indent{
