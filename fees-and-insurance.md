@@ -4,6 +4,7 @@ title: Fees and Insurance | Jenni Thomsen
 permalink: /fees-and-insurance/
 ---
 <div class="row">
+<div class="page">
   <div class="col-md-6 col-md-offset-3 col-xs-10 col-xs-offset-1">
 
 <h1>Fees and Insurance</h1>
@@ -30,7 +31,8 @@ permalink: /fees-and-insurance/
 
 
 <br>
-<p>For more information about payment, please contact me at <a href="tel:1-402-819-7885">(402) 819-7885</a></p>
+<p>For more information about payment, please contact me at <a href="tel:1-402-819-7885">402-819-7885</a></p>
 
   </div>
+</div>
 </div>

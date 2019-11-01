@@ -5,6 +5,7 @@ permalink: /services/
 ---
 
 <div class="row">
+<div class="page">
 
 <div class="col-md-6 col-md-offset-3 col-xs-10 col-xs-offset-1">
 
@@ -51,4 +52,5 @@ permalink: /services/
 
 
   </div>
+</div>
 </div>

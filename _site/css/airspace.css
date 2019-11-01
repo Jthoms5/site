@@ -62,6 +62,10 @@ a:active,
 a:focus,
 a:active {
   text-decoration: none !important;
+  color: #9544a8;
+}
+a:hover {
+  color: #47424C;
 }
 .section-title {
   margin-bottom: 70px;
@@ -822,6 +826,22 @@ font header .navbar-default .navbar-nav li a:hover {
   font-weight: 300;
 }
 /*---------------------------*/
+
+.page{
+  margin: 3rem auto;
+  display: block;
+  padding-top: 90px;
+  min-height: 58vh;
+}
+
+.about-page{
+  width: 75%;
+  margin: 3rem auto;
+  display: block;
+  padding-top: 90px;
+  min-height: 58vh;
+}
+
 /*--
 	footer Start
 --*/
@@ -831,6 +851,7 @@ footer {
   padding: 6rem 0;
   bottom: 0;
   width: 100%;
+  margin-top: 3rem;
 }
 footer p {
   font-size: 18px;
@@ -870,13 +891,6 @@ footer .footer-manu ul li a:hover {
   display: block;
   margin: 20px auto;
   max-width: 75px;
-}
-
-.page{
-  width: 75%;
-  margin: 3rem auto;
-  display: block;
-  padding-top: 90px
 }
 
 .indent{
